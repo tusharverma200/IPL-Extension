@@ -1,0 +1,11 @@
+{
+    "name":"IPL Updates",
+    "version":"1.0",
+    "description":"bBest cricket extension in the world",
+    "manifest_version":3,
+    "author":"Tushar verma",
+    "action":{
+       "default_popup":"index.html",
+       "default_title":"First extension"
+    }
+}

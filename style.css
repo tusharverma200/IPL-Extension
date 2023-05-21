@@ -1,0 +1,9 @@
+body {
+    min-width: 500px;
+    padding:2px;
+    background-color: black;
+   color:beige;
+   font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  border-radius: 6px;
+}
